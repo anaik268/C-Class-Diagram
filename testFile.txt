@@ -1,0 +1,9 @@
+class bigone
+class A nested-in bigone
+class B nested-in bigone
+class A nested-in B
+class B nested-in B
+class Mplanet nested-in B
+class C nested-in B
+class C nested-in bigone
+class littler
